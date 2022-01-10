@@ -1,0 +1,1 @@
+{"version":3,"file":"rootHandler.js","sourceRoot":"","sources":["../../src/Handlers/rootHandler.ts"],"names":[],"mappings":";;AAEA,kBAAe,CAAC,EAAE,OAAO,EAAoB,EAAE,EAAE,CAC/C,CAAC,KAAU,EAAE,EAAE;IACb,OAAO;QACL,KAAK,EAAE,KAAK,EAAE,GAAY,EAAE,GAAa,EAAE,EAAE,CAC3C,GAAG,CAAC,MAAM,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,IAAI,CAAC,6BAA6B,CAAC;KAC3D,CAAC;AACJ,CAAC,CAAC"}

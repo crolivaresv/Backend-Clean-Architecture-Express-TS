@@ -1,0 +1,1 @@
+{"version":3,"file":"bankferRepository.js","sourceRoot":"","sources":["../../../../../src/Infra/services/fetchers/repositoriessssss/bankferRepository.ts"],"names":[],"mappings":";;;AAAA,iCAA0B;AAC1B,mEAAiE;AAEjE,MAAa,iBAAkB,SAAQ,8CAAsB;IAE3D;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,KAAK,GAAG,eAAK,CAAC,MAAM,CAAC;YACxB,OAAO,EAAE,sCAAsC;SAChD,CAAC,CAAC;IACL,CAAC;CACF;AARD,8CAQC"}
